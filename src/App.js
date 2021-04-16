@@ -1,4 +1,4 @@
-import { Switch, Route } from 'react-router-dom'
+import { Switch, Route } from 'react-router-dom';
 import './App.css';
 import AboutPage from './components/About/AboutPage';
 import Header from './components/common/Header';
